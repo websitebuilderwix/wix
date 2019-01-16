@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>coderbits</title>
+	  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+    
+    <script src="js/jquery-3.3.1.min.js"></script>    
+    <script src="js/popper.min.js"></script>    
+    <script src="js/bootstrap.min.js"></script>    
+        
+</head>
+<body>
+		
+	<SECTION class="cover">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">
+  	<img  class="  class=" logo" src="images/logo.png"> CODER.BITS</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav  ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+     <li class="nav-item active">
+        <a class="nav-link" href="#section_about">about <span class="sr-only">(current)</span></a>
+      </li>
+       <li class="nav-item active">
+        <a class="nav-link" href="#section_work">work <span class="sr-only">(current)</span></a>
+      </li>
+       <li class="nav-item active">
+        <a class="nav-link" href="#section_portfolio">portofilo <span class="sr-only">(current)</span></a>
+      </li>
+       <li class="nav-item active">
+        <a class="nav-link" href="#">hire me <span class="sr-only">(current)</span></a>
+      </li>
+     
+      
+    </ul>
+   
+  </div>
+</nav>
+<div class="test">
+<h2>LETS WORK ON SOMETHING INTERESTING TODAY </h2>
+</div>
+</SECTION>
+<br><br>
+<div class="container">
+<div class="row">
+<div  id ="section_about" class="col-lg-12">
+	<h2>ABOUT ME</h2>
+<p class="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+</div>
+<br><br><br>
+
+<div class="col-lg-6">
+ <img src="images/profile_photo.jpg">
+</div>
+
+<div class="col-lg-6">
+ <p>
+ 	<h2>CAROLINA SANDER</h2>
+<b>Frontend Web Developer</b><br><br> 
+London based frontend developer and designer aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. <br><br>
+
+Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. <br><br>
+
+Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper nisi. Nam eget dui. Etiam rhoncus.
+ </p>
+</div>
+
+<br><br>
+
+		<div class="col-lg-6">
+ <p>
+ 	<h2>MY SKILLS</h2>
+About My skills and past work experience Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
+ </p>
+</div>
+
+<div class="col-lg-6">
+ <div class="progress_wrap">
+	                       
+	                        <span class="progress_title">PSD Template</span>
+	                        <span class=" muted ">79%</span> 
+	                        <div class="progress">
+	                          <div class="progress-bar" role="progressbar" style="width: 79%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+	                        </div>
+
+	                        <span class="progress_title">HTML &amp; CSS</span>
+	                        <span class="pull-right muted">90%</span> 
+	                        <div class="progress">
+	                          <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+	                        </div>
+
+	                        <span class="progress_title">Javascript / Jquery</span>
+	                        <span class="pull-right muted">96%</span> 
+	                        <div class="progress">
+	                          <div class="progress-bar" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+	                        </div>
+
+	                        <span class="progress_title">Wordpress</span>
+	                        <span class="pull-right muted">70%</span> 
+	                        <div class="progress">
+	                          <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+	                        </div>
+
+                        </div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 text-center">
+				
+					<a class="btn btn_cta scroll" href="#section_work">MY SERVICES</a>
+				</div>
+
+
+<div class="col-lg-12 what"  id="section_work">
+	<h2>WHAT I DO</h2>
+<p class="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+</div>
+<div class="products">
+<div class="col-xs-12 col-sm-12 col-md-4 ">
+	<div class="product">
+		<img src="">
+		<h4>BRANDING</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4  ">
+	<div class="product">
+		<img src="">
+		<h4>WEB DESIGN</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4  ">
+	<div class="product">
+		<img src="">
+		<h4>WEB DEVELOPMENT</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4  ">
+	<div class="product">
+		<img src="">
+		<h4>EMAIL TEMPLATES</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4  ">
+	<div class="product">
+		<img src="">
+		<h4>WORDPRESS</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4  ">
+	<div class="product">
+		<img src="">
+		<h4>WEB HOSTING</h4>
+		<p>Many desktop publishing packages and web page editors now use Lorem Ipsum text.</p>
+	</div>
+</div>
+
+
+
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-12 text-center">
+				
+					<a class="btn btn_cta scroll" href="#section_portfolio">CHECK MY PORTFOLIO</a>
+				</div>
+</div> 
+</div>
+<br>
+<br>
+
+<div class="col-xs-12 col-sm-12 col-md-12 ">
+			<div class="counter"><img src="images/project-counter.jpg">	</div>
+</div>
+<div  id="section_portfolio">
+	<div class="col-xs-12 col-sm-12 col-md-12 text-LEFT">
+				
+		<h2>MY PORTFILO</h2>
+<p class="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>		
+				</div>
+</div>
+<div class="portofilo">
+<div class="col-xs-12 col-sm-12 col-md-12 nav-center ">
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">ALL</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Branding</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Website</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Illustration</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+</div>	
+	</div>
+</div>
+
+</body>
+</html>
